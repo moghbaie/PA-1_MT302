@@ -6,8 +6,8 @@
 
 Project code and data is organized in following order:
 
-* [src](https://github.com/moghbaie/PA-1_MT302/tree/master/src)
-* [Input_data](https://github.com/moghbaie/PA-1_MT302/tree/master/Input_data/ReadMe_Input.md)
+* [src]
+* [Input_data]
 * [Image](https://github.com/moghbaie/PA-1_MT302/tree/master/Image)
 
 
