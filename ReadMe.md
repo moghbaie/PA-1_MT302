@@ -6,9 +6,9 @@
 
 Project code and data is organized in following order:
 
-* [src]
-* [Input_data]
-* [Image](https://github.com/moghbaie/PA-1_MT302/tree/master/Image)
+* src
+* Input_data
+* [Image](https://github.com/moghbaie/PA-1_MT302/tree/master/image/Volcano_plot)
 
 
 ## Project Pipeline:
